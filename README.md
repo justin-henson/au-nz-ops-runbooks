@@ -1,4 +1,4 @@
-# NZ Ops Runbooks — Incident Response, On-Call, and Postmortems
+# Ops Runbooks — Incident Response, On-Call, and Postmortems
 
 Practical runbooks and templates showing how I operate systems: triage, mitigation, communication, and learning loops.
 
